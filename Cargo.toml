@@ -1,0 +1,10 @@
+[package]
+name = "spirv-loader"
+version = "0.1.0"
+authors = ["khyperia <github@khyperia.com>"]
+edition = "2018"
+
+[dependencies]
+env_logger = ""
+wgpu = ""
+futures = ""
